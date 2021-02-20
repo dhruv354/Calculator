@@ -7,4 +7,4 @@
 ### for more information about technologies visit
 > [W3schools](http://w3schools.com)
 
-![Calculator]('media/calculator.png')
+![Calculator]('./media/calculator.png')
